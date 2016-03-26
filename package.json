@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scottgonzalez/grunt-wordpress.git"
+    "url": "git://github.com/kborchers/grunt-wordpress.git"
   },
   "bugs": {
-    "url": "https://github.com/scottgonzalez/grunt-wordpress/issues"
+    "url": "https://github.com/kborchers/grunt-wordpress/issues"
   },
   "license": "MIT",
   "scripts": {
